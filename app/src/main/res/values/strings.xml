@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Datamigo prototipo</string>
+    <string name="detalles">Ver Detalles</string>
+    <string name="detalle_factura">Facturas recientes</string>
+</resources>
